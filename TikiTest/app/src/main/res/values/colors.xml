@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorHK1">#214559</color>
+    <color name="colorHK2">#014600</color>
+    <color name="colorHK3">#c14a09</color>
+    <color name="colorHK4">#9e1212</color>
+    <color name="colorHK5">#d5b60a</color>
+    <color name="colorHK6">#11887b</color>
+    <color name="colorHK7">#040348</color>
+    <color name="colorHK8">#c9281f</color>
+    <color name="colorHK9">#5ec9c2</color>
+    <color name="colorHK10">#8aae64</color>
+
+    <array name="hotkeywords_colors">
+        <item>@color/colorHK1</item>
+        <item>@color/colorHK2</item>
+        <item>@color/colorHK3</item>
+        <item>@color/colorHK4</item>
+        <item>@color/colorHK5</item>
+        <item>@color/colorHK6</item>
+        <item>@color/colorHK7</item>
+        <item>@color/colorHK8</item>
+        <item>@color/colorHK9</item>
+        <item>@color/colorHK10</item>
+    </array>
+</resources>
